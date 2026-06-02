@@ -41,7 +41,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📰每日详细行程\
 &nbsp;&nbsp;&nbsp;&nbsp;🗺️景点信息与地图标记\
 &nbsp;&nbsp;&nbsp;&nbsp;🫕餐饮推荐
-## 核心实现
 ## MCP工具调用
 ## 📄API文档
 启动后端服务后，访问 http://localhost:8000/docs 查看完整的API文档
