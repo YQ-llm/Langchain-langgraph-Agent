@@ -44,7 +44,7 @@
 ## 核心实现
 ## MCP工具调用
 ## 📄API文档
-启动后端服务后，访问http://localhost:8000/docs查看完整的API文档
+启动后端服务后，访问 http://localhost:8000/docs 查看完整的API文档
 主要端点：\
 POST /api/trip/plan -生成旅游计划\
 GET /api/map/poi -搜索POI\
