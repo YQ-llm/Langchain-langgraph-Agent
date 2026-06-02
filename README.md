@@ -48,7 +48,7 @@
 ▪️`POST /api/trip/plan` -生成旅游计划\
 ▪️`GET /api/map/poi` -搜索POI\
 ▪️`GET /api/map/weather` - 查询天气\
-▪️`POST /api/map/rounte` - 规划路线\
+▪️`POST /api/map/rounte` - 规划路线
 
 ## 📜开源协议
 
