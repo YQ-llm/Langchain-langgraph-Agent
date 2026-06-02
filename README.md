@@ -16,11 +16,11 @@ AI驱动的旅游行程规划：基于langchain和langgraph框架\
    MCP工具：amap-mcp-server(高德地图)\
    LLM：支持多种LLM提供商(OpenAI,Qwen)
 ## 前端
-框架：Vue3 + TypeScript\
-构建工具：Vite\
-UI组件库：Ant Desing Vue\
-地图服务：高德地图\
-HTTP客户端：Axios
+   框架：Vue3 + TypeScript\
+   构建工具：Vite\
+   UI组件库：Ant Desing Vue\
+   地图服务：高德地图\
+   HTTP客户端：Axios
 ## 项目结构
 
 ## 使用指南
