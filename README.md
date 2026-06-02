@@ -2,7 +2,8 @@
 **仅供参考**\
 基于Langchain和Langgraph架构构建的智能行程规划助手，集成高德地图MCP服务，提供个性化的旅行计划生成
 ## 可视化展示
-<video src="[结果展示.mp4](https://github.com/YQ-llm/Langchain-langgraph-Agent/blob/1e50cc5802609c4ac533a88bf5e5d12b0cc25362/%E7%BB%93%E6%9E%9C%E5%B1%95%E7%A4%BA.mp4)" controls with="100%">
+
+<video src="https://github.com/YQ-llm/Langchain-langgraph-Agent/raw/1e50cc5802609c4ac533a88bf5e5d12b0cc25362/%E7%BB%93%E6%9E%9C%E5%B1%95%E7%A4%BA.mp4" controls width="100%"></video>
 
 ## 功能特点
 🔹🤖**AI驱动的旅游行程规划**：基于langchain和langgraph框架\
