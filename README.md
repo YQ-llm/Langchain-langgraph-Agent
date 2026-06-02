@@ -11,16 +11,16 @@
 
 ## ⚒️技术栈
 ## 后端
-&nbsp;&nbsp;&nbsp;&nbsp;**框架**：Langchain、langgraph\
-&nbsp;&nbsp;&nbsp;&nbsp;**API**：FastAPI\
-&nbsp;&nbsp;&nbsp;&nbsp;**MCP工具**：amap-mcp-server(高德地图)\
-&nbsp;&nbsp;&nbsp;&nbsp;**LLM**：支持多种LLM提供商(OpenAI,Qwen)
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**框架**：Langchain、langgraph\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**API**：FastAPI\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**MCP工具**：amap-mcp-server(高德地图)\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**LLM**：支持多种LLM提供商(OpenAI,Qwen)
 ## 前端
-&nbsp;&nbsp;&nbsp;&nbsp;**框架**：Vue3 + TypeScript\
-&nbsp;&nbsp;&nbsp;&nbsp;**构建工具**：Vite\
-&nbsp;&nbsp;&nbsp;&nbsp;**UI组件库**：Ant Desing Vue\
-&nbsp;&nbsp;&nbsp;&nbsp;**地图服务**：高德地图\
-&nbsp;&nbsp;&nbsp;&nbsp;**HTTP客户端**：Axios
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**框架**：Vue3 + TypeScript\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**构建工具**：Vite\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**UI组件库**：Ant Desing Vue\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**地图服务**：高德地图\
+&nbsp;&nbsp;&nbsp;&nbsp;▪️**HTTP客户端**：Axios
 ## 📁项目结构
 
 ## 📝使用指南
@@ -45,10 +45,10 @@
 ## 📄API文档
 启动后端服务后，访问 http://localhost:8000/docs 查看完整的API文档
 主要端点：\
-POST /api/trip/plan -生成旅游计划\
-GET /api/map/poi -搜索POI\
-GET /api/map/weather - 查询天气\
-POST /api/map/rounte - 规划路线
+▪️POST /api/trip/plan -生成旅游计划\
+▪️GET /api/map/poi -搜索POI\
+▪️GET /api/map/weather - 查询天气\
+▪️POST /api/map/rounte - 规划路线
 
 ## 📜开源协议
 
