@@ -24,7 +24,7 @@
 ## 📁项目结构
 
 ```
-helloagents-trip-planner/
+LLAgent/
 ├── backend/                    # 后端服务
 │   ├── app/
 │   │   ├── agents/            # Agent实现
