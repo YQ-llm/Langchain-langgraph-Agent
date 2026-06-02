@@ -3,7 +3,7 @@
 基于Langchain和Langgraph架构构建的智能行程规划助手，集成高德地图MCP服务，提供个性化的旅行计划生成
 ## 可视化展示
 
-<video src="./结果展示.mp4" controls width="100%"></video>
+<video src="./result.mp4" controls width="100%"></video>
 
 
 ## 功能特点
