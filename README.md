@@ -11,10 +11,10 @@ AI驱动的旅游行程规划：基于langchain和langgraph框架\
 
 ## 技术栈
 ## 后端
-框架：Langchain、langgraph\
-API：FastAPI\
-MCP工具：amap-mcp-server(高德地图)\
-LLM：支持多种LLM提供商(OpenAI,Qwen)
+   框架：Langchain、langgraph\
+   API：FastAPI\
+   MCP工具：amap-mcp-server(高德地图)\
+   LLM：支持多种LLM提供商(OpenAI,Qwen)
 ## 前端
 框架：Vue3 + TypeScript\
 构建工具：Vite\
