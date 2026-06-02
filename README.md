@@ -23,6 +23,37 @@
 &nbsp;&nbsp;&nbsp;&nbsp;▪️**HTTP客户端**：Axios
 ## 📁项目结构
 
+```
+helloagents-trip-planner/
+├── backend/                    # 后端服务
+│   ├── app/
+│   │   ├── agents/            # Agent实现
+│   │   │   └── trip_planner_agent.py
+│   │   ├── api/               # FastAPI路由
+│   │   │   ├── main.py
+│   │   │   └── routes/
+│   │   │       ├── trip.py
+│   │   │       └── map.py
+│   │   ├── services/          # 服务层
+│   │   │   ├── amap_service.py
+│   │   │   └── llm_service.py
+│   │   ├── models/            # 数据模型
+│   │   │   └── schemas.py
+│   │   └── config.py          # 配置管理
+│   ├── requirements.txt
+│   ├── .env.example
+│   └── .gitignore
+├── frontend/                   # 前端应用
+│   ├── src/
+│   │   ├── components/        # Vue组件
+│   │   ├── services/          # API服务
+│   │   ├── types/             # TypeScript类型
+│   │   └── views/             # 页面视图
+│   ├── package.json
+│   └── vite.config.ts
+└── README.md
+```
+
 ## 📝使用指南
 1.在首页直接和小助手对话（想要规划更精准需要说出）：\
 &nbsp;&nbsp;&nbsp;&nbsp;📍目的地城市\
