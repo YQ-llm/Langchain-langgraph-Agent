@@ -1,9 +1,6 @@
 # Langchain-langgraph-AI行程规划助手🗺️✈️
 **仅供参考**\
 基于Langchain和Langgraph架构构建的智能行程规划助手，集成高德地图MCP服务，提供个性化的旅行计划生成
-## 可视化展示
-
-<video src="[./result.mp4](https://github.com/user-attachments/assets/f0a0048f-2122-4ee4-a71f-7e3f8a6ff5ed)" controls width="100%"></video>
 
 
 ## 功能特点
