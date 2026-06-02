@@ -57,7 +57,7 @@ MIT License
 [高德地图开放平台](https://lbs.amap.com/) - 地图服务\
 [amap-mcp-server](https://github.com/sugarforever/amap-mcp-server) - 高德地图MCP服务器\
 [HelloAgents](https://github.com/datawhalechina/Hello-Agents) - 智能体教程\
-[HelloAgents](https://github.com/datawhalechina/hello-agents/blob/main/code/chapter13/helloagents-trip-planner)) - 智能体应用
+[HelloAgents](https://github.com/datawhalechina/hello-agents/blob/main/code/chapter13/helloagents-trip-planner) - 智能体应用
 
 
 
