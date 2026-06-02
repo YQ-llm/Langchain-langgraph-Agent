@@ -51,6 +51,7 @@
 ▪️`POST /api/map/rounte` - 规划路线
 
 ## 📜开源协议
+MIT License 
 
 ## 🙏致谢
 [高德地图开放平台](https://lbs.amap.com/) - 地图服务\
