@@ -11,16 +11,16 @@
 
 ## ⚒️技术栈
 ## 后端
-框架：Langchain、langgraph\
-API：FastAPI\
-MCP工具：amap-mcp-server(高德地图)\
-LLM：支持多种LLM提供商(OpenAI,Qwen)
+&nbsp;&nbsp;&nbsp;&nbsp;框架：Langchain、langgraph\
+&nbsp;&nbsp;&nbsp;&nbsp;API：FastAPI\
+&nbsp;&nbsp;&nbsp;&nbsp;MCP工具：amap-mcp-server(高德地图)\
+&nbsp;&nbsp;&nbsp;&nbsp;LLM：支持多种LLM提供商(OpenAI,Qwen)
 ## 前端
-框架：Vue3 + TypeScript\
-构建工具：Vite\
-UI组件库：Ant Desing Vue\
-地图服务：高德地图\
-HTTP客户端：Axios
+&nbsp;&nbsp;&nbsp;&nbsp;框架：Vue3 + TypeScript\
+&nbsp;&nbsp;&nbsp;&nbsp;构建工具：Vite\
+&nbsp;&nbsp;&nbsp;&nbsp;UI组件库：Ant Desing Vue\
+&nbsp;&nbsp;&nbsp;&nbsp;地图服务：高德地图\
+&nbsp;&nbsp;&nbsp;&nbsp;HTTP客户端：Axios
 ## 📁项目结构
 
 ## 📝使用指南
@@ -29,7 +29,7 @@ HTTP客户端：Axios
 &nbsp;&nbsp;&nbsp;&nbsp;📆旅游时间和天数\
 &nbsp;&nbsp;&nbsp;&nbsp;🚕交通方式偏好（可选说）\
 &nbsp;&nbsp;&nbsp;&nbsp;⛺住宿偏好（可选说）\
-注：出来对话外，也可手动填写-点击首页手动设置-里面有相关选项供参考\
+🌟注：出来对话外，也可手动填写-点击首页手动设置-里面有相关选项供参考\
 2.小助手结合以上信息进行“生成行程规划”\
 3.小助手将：\
 &nbsp;&nbsp;&nbsp;&nbsp;⚓调用langchain和langgraph生成初步计划\
