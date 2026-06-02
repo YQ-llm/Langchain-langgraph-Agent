@@ -43,18 +43,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🫕餐饮推荐
 ## MCP工具调用
 ## 📄API文档
-启动后端服务后，访问 http://localhost:8000/docs 查看完整的API文档
+启动后端服务后，访问 `http://localhost:8000/docs` 查看完整的API文档
 主要端点：\
-▪️POST /api/trip/plan -生成旅游计划\
-▪️GET /api/map/poi -搜索POI\
-▪️GET /api/map/weather - 查询天气\
-▪️POST /api/map/rounte - 规划路线
+▪️`POST /api/trip/plan` -生成旅游计划\
+▪️`GET /api/map/poi` -搜索POI\
+▪️`GET /api/map/weather` - 查询天气\
+▪️`POST /api/map/rounte` - 规划路线
 
 ## 📜开源协议
 
 ## 🙏致谢
- 
-
+[高德地图开放平台](https://lbs.amap.com/) - 地图服务\
+[amap-mcp-server](https://github.com/sugarforever/amap-mcp-server) - 高德地图MCP服务器
 
 
 
