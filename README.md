@@ -1,8 +1,6 @@
 # Langchain-langgraph-AI行程规划助手🗺️✈️
 **仅供参考**\
 基于Langchain和Langgraph架构构建的智能行程规划助手，集成高德地图MCP服务，提供个性化的旅行计划生成
-
-
 ## 功能特点
 🔹🤖**AI驱动的旅游行程规划**：基于langchain和langgraph框架\
 🔹🗺️**高德地图集成**：通过MCP协议接入高德地图服务，支持景点搜索、天气查询、时间选择、路径规划\
@@ -73,6 +71,8 @@ LLAgent/
 &nbsp;&nbsp;&nbsp;&nbsp;📰每日详细行程\
 &nbsp;&nbsp;&nbsp;&nbsp;🗺️景点信息与地图标记\
 &nbsp;&nbsp;&nbsp;&nbsp;🫕餐饮推荐
+## 可视化展示
+
 ## MCP工具调用
 ## 📄API文档
 启动后端服务后，访问 `http://localhost:8000/docs` 查看完整的API文档
