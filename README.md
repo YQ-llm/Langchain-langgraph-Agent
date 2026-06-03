@@ -72,7 +72,7 @@ LLAgent/
 &nbsp;&nbsp;&nbsp;&nbsp;🗺️景点信息与地图标记\
 &nbsp;&nbsp;&nbsp;&nbsp;🫕餐饮推荐
 ## 可视化展示
-https://github.com/YQ-llm/Langchain-langgraph-Agent/blob/bc8149dceab6731760f98c1a4a63303b05b999e1/start-image.png
+start-image.png
 
 ## MCP工具调用
 ## 📄API文档
