@@ -73,7 +73,7 @@ LLAgent/
 &nbsp;&nbsp;&nbsp;&nbsp;🫕餐饮推荐
 ## 可视化展示
 ![start-image](start-image.png)
-![start-image1](start-image1.png)
+![start-image2](start-image2.png)
 ![result-image1](result-image1.png)
 ![result-image2](result-image2.png)
 ![result-image3](result-image3.png)
